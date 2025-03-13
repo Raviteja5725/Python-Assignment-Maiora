@@ -1,0 +1,6 @@
+OrderId,OrderItemId,QuantityOrdered,ItemPrice,PromotionDiscount
+101,1,2,500,50
+102,2,1,700,100
+103,3,3,200,0
+104,4,4,150,50
+105,5,5,300,200

@@ -1,0 +1,10 @@
+{
+    "metadata_config": {
+        "databaseType": "postgreSQL",
+        "host": "192.168.0.112",
+        "port": "5432",
+        "username": "postgres",
+        "psswrd": "postgres",
+        "databaseName": "archive_raviteja"
+    }
+}
